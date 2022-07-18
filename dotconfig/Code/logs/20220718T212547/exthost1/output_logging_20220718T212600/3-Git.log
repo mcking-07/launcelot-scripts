@@ -1,0 +1,27 @@
+[2022-07-18T15:56:03.257Z] Log level: Info
+[2022-07-18T15:56:03.258Z] [info] Validating found git in: git
+[2022-07-18T15:56:03.276Z] [info] Using git 2.34.1 from git
+[2022-07-18T15:56:03.285Z] > git rev-parse --show-toplevel [1ms]
+[2022-07-18T15:56:03.292Z] > git rev-parse --git-dir --git-common-dir [3ms]
+[2022-07-18T15:56:03.295Z] [info] Open repository: /home/mcking/Downloads/Fedora-Titus
+[2022-07-18T15:56:03.313Z] > git status -z -uall [13ms]
+[2022-07-18T15:56:03.318Z] > git symbolic-ref --short HEAD [1ms]
+[2022-07-18T15:56:03.323Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+[2022-07-18T15:56:03.328Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+[2022-07-18T15:56:03.329Z] > git remote --verbose [2ms]
+[2022-07-18T15:56:03.334Z] > git config --get commit.template [0ms]
+[2022-07-18T15:56:03.351Z] > git status -z -uall [11ms]
+[2022-07-18T15:56:03.355Z] > git symbolic-ref --short HEAD [1ms]
+[2022-07-18T15:56:03.360Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+[2022-07-18T15:56:03.365Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+[2022-07-18T15:56:03.366Z] > git remote --verbose [2ms]
+[2022-07-18T15:56:03.370Z] > git config --get commit.template [1ms]
+[2022-07-18T15:56:03.818Z] > git check-ignore -v -z --stdin [2ms]
+[2022-07-18T15:56:09.256Z] > git show --textconv :LICENSE [7ms]
+[2022-07-18T15:56:09.258Z] > git ls-files --stage -- /home/mcking/Downloads/Fedora-Titus/LICENSE [3ms]
+[2022-07-18T15:56:09.263Z] > git cat-file -s f288702d2fa16d3cdf0035b15a9fcbc552cd88e7 [1ms]
+[2022-07-18T15:56:23.191Z] > git show --textconv :LICENSE [7ms]
+[2022-07-18T15:56:23.193Z] > git ls-files --stage -- /home/mcking/Downloads/Fedora-Titus/LICENSE [3ms]
+[2022-07-18T15:56:23.199Z] > git cat-file -s f288702d2fa16d3cdf0035b15a9fcbc552cd88e7 [1ms]
+[2022-07-18T15:56:33.652Z] > git rev-parse --show-toplevel [2ms]
+[2022-07-18T15:56:33.652Z] fatal: not a git repository (or any of the parent directories): .git

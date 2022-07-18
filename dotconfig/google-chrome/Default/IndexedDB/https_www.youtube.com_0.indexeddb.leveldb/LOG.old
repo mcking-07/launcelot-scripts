@@ -1,0 +1,7 @@
+2022/07/18-16:32:58.516 52b0 Reusing MANIFEST /home/mcking/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/18-16:32:58.516 52b0 Recovering log #3
+2022/07/18-16:32:58.516 52b0 Reusing old log /home/mcking/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2022/07/18-16:33:34.774 4da7 Level-0 table #5: started
+2022/07/18-16:33:34.779 4da7 Level-0 table #5: 232644 bytes OK
+2022/07/18-16:33:34.782 4da7 Delete type=0 #3
+2022/07/18-16:33:34.783 4da7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

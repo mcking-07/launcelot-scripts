@@ -1,0 +1,6 @@
+2022/07/18-21:42:47.318 170e Creating DB /home/mcking/.config/google-chrome/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb since it was missing.
+2022/07/18-21:42:47.323 170e Reusing MANIFEST /home/mcking/.config/google-chrome/Default/IndexedDB/https_music.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/07/18-22:59:47.717 15fb Level-0 table #5: started
+2022/07/18-22:59:47.721 15fb Level-0 table #5: 134591 bytes OK
+2022/07/18-22:59:47.723 15fb Delete type=0 #3
+2022/07/18-22:59:47.723 15fb Manual compaction at level-0 from (begin) .. (end); will stop at (end)

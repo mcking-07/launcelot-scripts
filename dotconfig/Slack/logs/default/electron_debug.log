@@ -1,0 +1,28 @@
+[19650:0718/162509.326963:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
+[19650:0718/162509.378574:ERROR:browser_main_loop.cc(271)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[19650:0718/162621.054090:ERROR:browser_main_loop.cc(271)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[19650:0718/162621.054421:ERROR:browser_main_loop.cc(271)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[1764:0718/165221.150772:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
+[1764:0718/165221.204994:ERROR:browser_main_loop.cc(271)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[1764:0718/165221.205380:ERROR:browser_main_loop.cc(271)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[1764:0718/165223.417246:ERROR:browser_main_loop.cc(271)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[1764:0718/165223.491127:ERROR:browser_main_loop.cc(271)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[1764:0718/165223.491444:ERROR:browser_main_loop.cc(271)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[10401:0718/172157.725297:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
+[10401:0718/172157.807155:ERROR:browser_main_loop.cc(271)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[10401:0718/172157.807560:ERROR:browser_main_loop.cc(271)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[10401:0718/172200.361807:ERROR:browser_main_loop.cc(271)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[10401:0718/172200.444436:ERROR:browser_main_loop.cc(271)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[10401:0718/172200.444804:ERROR:browser_main_loop.cc(271)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[1825:0718/174938.357998:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
+[1825:0718/174938.462674:ERROR:browser_main_loop.cc(271)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[1825:0718/174938.463719:ERROR:browser_main_loop.cc(271)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[1825:0718/174940.439093:ERROR:browser_main_loop.cc(271)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[1825:0718/174940.514689:ERROR:browser_main_loop.cc(271)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[1825:0718/174940.515023:ERROR:browser_main_loop.cc(271)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[9796:0718/181633.718562:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
+[9796:0718/181633.770233:ERROR:browser_main_loop.cc(271)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[9796:0718/181633.770643:ERROR:browser_main_loop.cc(271)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[9796:0718/181635.941718:ERROR:browser_main_loop.cc(271)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[9796:0718/181636.002360:ERROR:browser_main_loop.cc(271)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed
+[9796:0718/181636.002664:ERROR:browser_main_loop.cc(271)] Gtk: gtk_widget_add_accelerator: assertion 'GTK_IS_ACCEL_GROUP (accel_group)' failed

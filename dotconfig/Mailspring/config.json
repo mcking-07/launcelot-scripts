@@ -1,0 +1,132 @@
+{
+  "*": {
+    "env": "production",
+    "core": {
+      "themes": [
+        "ui-light"
+      ],
+      "disabledPackages": [
+        "message-view-on-github",
+        "personal-level-indicators",
+        "phishing-detection",
+        "nylas-private-salesforce",
+        "github-contact-card",
+        "keybase",
+        "composer-markdown",
+        "composer-scheduler",
+        "composer-mail-merge",
+        "send-and-archive",
+        "main-calendar"
+      ],
+      "workspace": {
+        "mode": "list"
+      },
+      "keymapTemplate": "Gmail",
+      "theme": "ui-dark",
+      "tutorial": {
+        "seen": [
+          "ThreadSearchBar"
+        ]
+      }
+    },
+    "identity": {
+      "id": "d4bf2576-071a-4182-99b4-491ffc32ffab",
+      "firstName": "Mohammed Muzammil",
+      "lastName": "Anwar",
+      "emailAddress": "muzammil@pluginhive.com",
+      "object": "identity",
+      "createdAt": "2022-07-18T06:23:28.000Z",
+      "stripePlan": "Basic",
+      "stripePlanEffective": "Basic",
+      "stripeCustomerId": "cus_M4xHFUTjrXyuN2",
+      "stripePeriodEnd": "2022-08-18T06:23:27.000Z",
+      "featureUsage": {
+        "snooze": {
+          "quota": 15,
+          "period": "weekly",
+          "usedInPeriod": 0,
+          "featureLimitName": "basic-limit"
+        },
+        "send-later": {
+          "quota": 5,
+          "period": "weekly",
+          "usedInPeriod": 0,
+          "featureLimitName": "basic-limit"
+        },
+        "thread-sharing": {
+          "quota": 3,
+          "period": "weekly",
+          "usedInPeriod": 0,
+          "featureLimitName": "basic-limit"
+        },
+        "link-tracking": {
+          "quota": 5,
+          "period": "weekly",
+          "usedInPeriod": 0,
+          "featureLimitName": "basic-limit"
+        },
+        "open-tracking": {
+          "quota": 5,
+          "period": "weekly",
+          "usedInPeriod": 0,
+          "featureLimitName": "basic-limit"
+        },
+        "contact-profiles": {
+          "quota": 3,
+          "period": "weekly",
+          "usedInPeriod": 0,
+          "featureLimitName": "basic-limit"
+        },
+        "send-reminders": {
+          "quota": 5,
+          "period": "weekly",
+          "usedInPeriod": 0,
+          "featureLimitName": "basic-limit"
+        },
+        "translation": {
+          "quota": 50,
+          "period": "weekly",
+          "usedInPeriod": 0,
+          "featureLimitName": "basic-limit"
+        }
+      }
+    },
+    "accounts": [
+      {
+        "id": "76b712da",
+        "metadata": [],
+        "name": "Mohammed Muzammil Anwar",
+        "provider": "imap",
+        "emailAddress": "muzammil@pluginhive.com",
+        "settings": {
+          "imap_host": "secure.emailsrvr.com",
+          "imap_port": 993,
+          "imap_username": "muzammil@pluginhive.com",
+          "imap_security": "SSL / TLS",
+          "imap_allow_insecure_ssl": false,
+          "smtp_host": "secure.emailsrvr.com",
+          "smtp_port": 465,
+          "smtp_username": "muzammil@pluginhive.com",
+          "smtp_security": "SSL / TLS",
+          "smtp_allow_insecure_ssl": false,
+          "container_folder": ""
+        },
+        "label": "muzammil@pluginhive.com",
+        "autoaddress": {
+          "type": "bcc",
+          "value": ""
+        },
+        "aliases": [],
+        "syncState": "ok",
+        "authedAt": 1658141277.16,
+        "color": "",
+        "__cls": "Account"
+      }
+    ],
+    "accountsVersion": 1,
+    "containerFolderDefault": "",
+    "mailto": {
+      "prompted-about-default": true
+    }
+  }
+}

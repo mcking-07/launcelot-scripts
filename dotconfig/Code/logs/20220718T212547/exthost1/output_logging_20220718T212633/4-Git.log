@@ -1,0 +1,28 @@
+[2022-07-18T15:56:34.071Z] Log level: Info
+[2022-07-18T15:56:34.072Z] [info] Validating found git in: git
+[2022-07-18T15:56:34.100Z] [info] Using git 2.34.1 from git
+[2022-07-18T15:56:34.113Z] > git rev-parse --show-toplevel [6ms]
+[2022-07-18T15:56:34.135Z] > git rev-parse --git-dir --git-common-dir [16ms]
+[2022-07-18T15:56:34.137Z] [info] Open repository: /home/mcking/Downloads/Fedora-Titus
+[2022-07-18T15:56:34.150Z] > git rev-parse --show-toplevel [3ms]
+[2022-07-18T15:56:34.150Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-07-18T15:56:34.155Z] > git status -z -uall [12ms]
+[2022-07-18T15:56:34.164Z] > git symbolic-ref --short HEAD [0ms]
+[2022-07-18T15:56:34.171Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+[2022-07-18T15:56:34.179Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+[2022-07-18T15:56:34.180Z] > git remote --verbose [2ms]
+[2022-07-18T15:56:34.189Z] > git config --get commit.template [2ms]
+[2022-07-18T15:56:34.211Z] > git status -z -uall [14ms]
+[2022-07-18T15:56:34.215Z] > git symbolic-ref --short HEAD [0ms]
+[2022-07-18T15:56:34.222Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+[2022-07-18T15:56:34.229Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+[2022-07-18T15:56:34.229Z] > git remote --verbose [1ms]
+[2022-07-18T15:56:34.234Z] > git config --get commit.template [1ms]
+[2022-07-18T15:56:34.688Z] > git check-ignore -v -z --stdin [2ms]
+[2022-07-18T15:56:39.327Z] > git show --textconv :install.sh [9ms]
+[2022-07-18T15:56:39.328Z] > git ls-files --stage -- /home/mcking/Downloads/Fedora-Titus/install.sh [3ms]
+[2022-07-18T15:56:39.338Z] > git cat-file -s 7ac009aa1f6c7a8854750be0d5578a29f254d3ec [1ms]
+[2022-07-18T15:56:48.881Z] > git rev-parse --show-toplevel [1ms]
+[2022-07-18T15:56:48.881Z] fatal: not a git repository (or any of the parent directories): .git
+[2022-07-18T15:57:26.884Z] > git rev-parse --show-toplevel [1ms]
+[2022-07-18T15:57:26.884Z] fatal: not a git repository (or any of the parent directories): .git

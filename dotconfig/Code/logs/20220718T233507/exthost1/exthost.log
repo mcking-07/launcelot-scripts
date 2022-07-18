@@ -1,0 +1,28 @@
+[2022-07-18 23:35:08.842] [exthost] [info] Extension host with pid 10474 started
+[2022-07-18 23:35:08.842] [exthost] [info] Skipping acquiring lock for /home/mcking/.config/Code/User/workspaceStorage/49a0edd1c6fb2fb46d1e1d120ed8ee3f.
+[2022-07-18 23:35:09.017] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-07-18 23:35:09.033] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-18 23:35:09.035] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-18 23:35:09.037] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-18 23:35:09.082] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-18 23:35:09.102] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-18 23:35:09.165] [exthost] [info] Eager extensions activated
+[2022-07-18 23:35:09.174] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-07-18 23:35:09.216] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-18 23:35:09.223] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-18 23:35:11.939] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-18 23:35:11.945] [exthost] [info] Extension host with pid 10474 exiting with code 0
+[2022-07-18 23:35:12.148] [exthost] [info] Extension host with pid 10664 started
+[2022-07-18 23:35:12.148] [exthost] [info] Skipping acquiring lock for /home/mcking/.config/Code/User/workspaceStorage/49a0edd1c6fb2fb46d1e1d120ed8ee3f.
+[2022-07-18 23:35:12.167] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-07-18 23:35:12.176] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-07-18 23:35:12.183] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-07-18 23:35:12.184] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-07-18 23:35:12.185] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-07-18 23:35:12.201] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-07-18 23:35:12.215] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-07-18 23:35:12.248] [exthost] [info] Eager extensions activated
+[2022-07-18 23:35:12.256] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-18 23:35:12.259] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-07-18 23:35:13.074] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-07-18 23:35:13.081] [exthost] [info] Extension host with pid 10664 exiting with code 0
