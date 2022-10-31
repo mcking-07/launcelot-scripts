@@ -10,10 +10,10 @@ fi
 sudo apt update && sudo apt upgrade -y
 
 #create .config, move config files
-sudo mkdir ~/.config
-sudo chown $(whoami): ~/.config
+# sudo mkdir ~/.config
+# sudo chown $(whoami): ~/.config
 # sudo mv ./bg.jpg ~/.config
-sudo mv ./dotconfig/* ~/.config
+# sudo mv ./dotconfig/* ~/.config
 
 #remove snapd services
 sudo systemctl disable snapd.service
@@ -34,14 +34,21 @@ sudo apt autoremove --purge snapd
 sudo rm -rf ~/snap
 
 #system update
-sudo apt update && sudo apt upgrade -y 
+sudo apt update && sudo apt upgrade -y
 
 #install media codecs
 sudo apt install ubuntu-restricted-extras -y
 
 #insatll applications
-sudo apt install wget git neofetch cmatrix figlet nano vim neovim -y 
+sudo apt install wget git neofetch cmatrix figlet nano vim neovim -y
+
+#install dev-tools
+sudo apt install build-essential nodejs npm software-properties-common python3 -y
+
+#install gnome-tools
+sudo apt install gnome-tweaks gnome-shell-extension-manager -y
+sudo apt install --install-suggests gnome-software -y && flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 
 #install deb packages
 cd deb-packages/
-sudo dpkg -i google-chrome.deb vscode.deb tabby.deb slack.deb mailspring.deb 
+sudo dpkg -i google-chrome.deb vscode.deb tabby.deb slack.deb mailspring.deb

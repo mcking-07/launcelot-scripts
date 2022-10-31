@@ -1,6 +1,0 @@
-2022/07/18-23:21:41.924 3 Reusing MANIFEST /home/mcking/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2022/07/18-23:21:41.925 3 Recovering log #11
-2022/07/18-23:21:41.925 3 Reusing old log /home/mcking/.config/google-chrome/Default/Local Storage/leveldb/000011.log 
-2022/07/18-23:30:34.460 a Level-0 table #15: started
-2022/07/18-23:30:34.470 a Level-0 table #15: 26244 bytes OK
-2022/07/18-23:30:34.484 a Delete type=0 #11

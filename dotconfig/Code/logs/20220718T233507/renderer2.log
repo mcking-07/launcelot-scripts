@@ -1,9 +1,0 @@
-[2022-07-18 23:38:03.596] [renderer2] [error] ["Unknown (FileSystemError): Failed to move 'Code' to the trash","    at l (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:30:4146)","    at E.delete (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:33:48189)"]
-[2022-07-18 23:38:03.601] [renderer2] [error] Failed to move 'Code' to the trash: Unknown (FileSystemError): Failed to move 'Code' to the trash
-    at l (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:30:4146)
-    at E.delete (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:33:48189)
-[2022-07-18 23:38:06.311] [renderer2] [error] ["NoPermissions (FileSystemError): Error: EACCES: permission denied, scandir '/home/mcking/Downloads/launcelot-scripts/dotconfig/Code'","    at l (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:30:4146)","    at n.toFileSystemProviderError (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:33:42487)","    at n.delete (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:33:39967)"]
-[2022-07-18 23:38:06.315] [renderer2] [error] Error: EACCES: permission denied, scandir '/home/mcking/Downloads/launcelot-scripts/dotconfig/Code': NoPermissions (FileSystemError): Error: EACCES: permission denied, scandir '/home/mcking/Downloads/launcelot-scripts/dotconfig/Code'
-    at l (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:30:4146)
-    at n.toFileSystemProviderError (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:33:42487)
-    at n.delete (/usr/share/code/resources/app/out/vs/code/electron-main/main.js:33:39967)
