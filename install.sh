@@ -45,7 +45,7 @@ wget https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64 -O
 sudo dpkg -i google-chrome.deb mailspring.deb slack.deb code.deb -y
 
 # remove deb files after install
-rm -rf ./google-chrome-stable_current_amd64.deb ./mailspring.deb ./slack-desktop-4.20.0-amd64.deb ./code.deb
+rm -rf ./google-chrome.deb ./mailspring.deb ./slack.deb ./code.deb
 
 # install gnome-tools
 sudo apt install chrome-gnome-shell -y
